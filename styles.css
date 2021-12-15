@@ -1,0 +1,52 @@
+.container {
+  background-color: #630A10;
+  padding: 15px 5px 0 5px;
+  text-align: center;
+}
+
+.play-section {
+  background-color: #FCF0C8;
+  padding: 50px 10px 50px 10px;
+  margin: auto;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #911f27;
+  margin: auto;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 8rem;
+  color: #000;
+}
+
+p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000;
+  font-family: 'Abril Fatface', cursive;
+  /*font-family: 'Indie Flower', cursive;*/
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  padding: 50px 50px;
+  padding-bottom: 50px;
+  font-weight: 700;
+  background-color: #FACE7F;
+  color: #000;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+
+}
